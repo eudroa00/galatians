@@ -1,9 +1,8 @@
 body {
     background-color: gainsboro;
-    margin-bottom: 40px;
 }
 
-.container {  
+main {  
     display: flex;
     flex-direction: column;
     background-color: bisque;
