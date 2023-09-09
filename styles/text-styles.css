@@ -1,0 +1,45 @@
+.title-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color:black;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.title-text a {
+    text-decoration: none;
+}
+
+.title-text a:visited {
+    color: black;
+}
+
+.title-text a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.chapter {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    color:black;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.bible-quotation {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: black;
+    line-height: 1.5;
+}
+
+.bible-quotation sup {
+    vertical-align: super;
+    font-size: 0.6em;
+    margin-right: 2px;
+}
